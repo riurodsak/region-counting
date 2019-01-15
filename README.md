@@ -1,5 +1,5 @@
 # region-counting
-Analysis of regions contained in a image
+Matlab script for the analysis of regions contained in a image.
 
 ### Steps to follow
 1. Start opening 'outlining.m'. This script processes a .png file and outputs a binary image with the region borders drawn in white. 
